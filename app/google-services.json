@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "43804053858",
+    "firebase_url": "https://gujarat-289b6.firebaseio.com",
+    "project_id": "gujarat-289b6",
+    "storage_bucket": "gujarat-289b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43804053858:android:7993fcd9ecd76fb9ec5c3b",
+        "android_client_info": {
+          "package_name": "com.covid19.gujarat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43804053858-frir8aj0kft0qck9lvg9ahl8kssq9ghn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.gujarat",
+            "certificate_hash": "3db8cd558aff88d5fbd857bf239382aeafe23508"
+          }
+        },
+        {
+          "client_id": "43804053858-oh85l3i279mfeailkvmb7vok29p0uo6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0PYF2lAF343fdmSBoH7Hcxa7qMWZ-WA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43804053858-oh85l3i279mfeailkvmb7vok29p0uo6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
